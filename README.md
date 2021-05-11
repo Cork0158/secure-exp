@@ -34,9 +34,9 @@ Ghidraを用いた違うシステムの解析を先生に提案したが難し�
 下の3つはインストールおよび使用方法を説明しているため，今後使用していく際にいておく必要がある．（ただ，全部英語） 
   
 また，IDSについての理解が必要であると判断したため，以下の資料も参考にした．  
-> chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.nic.ad.jp/ja/materials/iw/2005/proceedings/T13-2.pdf  
-> chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.ieice-hbkb.org/files/03/03gun_07hen_05.pdf  
-> chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.ipa.go.jp/files/000056339.pdf  
+> https://www.nic.ad.jp/ja/materials/iw/2005/proceedings/T13-2.pdf  
+> https://www.ieice-hbkb.org/files/03/03gun_07hen_05.pdf  
+> https://www.ipa.go.jp/files/000056339.pdf  
 
 特に一番下はIPAの資料であるため熟読する価値は十分にある．
 
