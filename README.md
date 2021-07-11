@@ -29,9 +29,11 @@ Ghidraを用いた違うシステムの解析を先生に提案したが難し�
 > https://docs.zeek.org/en/current/quickstart.html#managing-zeek-with-zeekcontrol  
 > https://www.youtube.com/watch?v=bznH1yMyjjo  
 > https://www.youtube.com/watch?v=R5mnIvjQn-g  
+> https://darkdefender.medium.com/https-medium-com-melanijan93-analysing-pcaps-with-bro-zeek-33340e710012
 
 上から2つ目はマジで神（英語なのが難点だが）  
 下の3つはインストールおよび使用方法を説明しているため，今後使用していく際にいておく必要がある．（ただ，全部英語） 
+一番下はまじで参考程度
   
 また，IDSについての理解が必要であると判断したため，以下の資料も参考にした．  
 > https://www.nic.ad.jp/ja/materials/iw/2005/proceedings/T13-2.pdf  
